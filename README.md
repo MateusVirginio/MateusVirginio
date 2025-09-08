@@ -5,7 +5,8 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPB**, com foco principal em **Java + Spring Boot**. Atualmente, também venho explorando o ecossistema **Kotlin** e o desenvolvimento mobile. Trabalho na **Anderson Rios Consultoria** como Dev Jr., atuando em diferentes demandas, desde aplicações web até suporte em projetos mobile.  
 
 ---
-
+<div align="center">
+  
 ## 🚀 Tecnologias & Ferramentas  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -16,13 +17,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPB**, com foco pr
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
+</div>
 ---
 
 ## 📊 Estatísticas  
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight)  
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvirginio&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateusvirginio&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mateusvirginio&theme=tokyonight&count_private=true)  
 
 ---
 
