@@ -6,7 +6,7 @@
 
 ### Desenvolvedor Backend Java | Kotlin & Mobile em Ascensão  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPB**, Desenvolvimento continuo em Kotlin como linguagem principal. Base sólida em  lógica, POO e estruturas de dados. Experiência prática em backend com Kotlin, Java +  Spring Boot e banco de dados PostgreSQL. Familiaridade com Android nativo  (Coroutines, ViewModel e Compose – noções). Trabalho com Git/GitHub,  Gradle/Maven, Docker e Postman/Insomnia. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPB**###, Desenvolvimento continuo em Kotlin como linguagem principal. Base sólida em  lógica, POO e estruturas de dados. Experiência prática em backend com Kotlin, Java +  Spring Boot e banco de dados PostgreSQL. Familiaridade com Android nativo  (Coroutines, ViewModel e Compose – noções). Trabalho com Git/GitHub,  Gradle/Maven, Docker e Postman/Insomnia. 
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
