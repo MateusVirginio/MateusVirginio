@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p>Desenvolvedor Android (Kotlin) · Java + Spring Boot</small></p>
+<h4>Desenvolvedor Android (Kotlin) · Java + Spring Boot</h4>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFPB, com desenvolvimento contínuo em Kotlin como linguagem principal. Base sólida em lógica, POO e estruturas de dados. Experiência prática em backend com Kotlin, Java + Spring Boot e PostgreSQL. Familiaridade com Android nativo (Coroutines, ViewModel e noções de Compose). Trabalho com Git/GitHub, Gradle/Maven, Docker e Postman/Insomnia. 
 ---
