@@ -1,17 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Android+Developer"
-      alt="Typing SVG"
-    />
-  </a>
-  <img
-    src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat"
-    alt="Android badge"
-    height="22"
-    style="margin-left:8px; vertical-align:middle;"
-  />
-</p>
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Android+Developer+%F0%9F%9A%80" alt="Typing SVG" /> </a> </p>
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="22" alt="Kotlin" /> Desenvolvedor Android (Kotlin) · Java + Spring Boot
 
