@@ -23,7 +23,7 @@
 ## 📝 Experiência  
 
 - **Anderson Rios Consultoria**  
-  Atuação como Dev Jr., com participação em projetos **web backend (Java + Spring Boot)** e pequenas contribuições em mobile.  
+  Atuação como Dev Estagiário, com participação em projetos **web backend (Java + Spring Boot)** e pequenas contribuições em mobile.  
 - Experiência em manutenção de sistemas, implementação de funcionalidades e suporte técnico em diferentes etapas do desenvolvimento.  
 
 ---
