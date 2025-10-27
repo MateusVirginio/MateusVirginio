@@ -1,6 +1,6 @@
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Android+Developer+%F0%9F%9A%80" alt="Typing SVG" /> </a> </p>
 
-## ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="22" height="22" alt="Kotlin" /> Desenvolvedor Android (Kotlin) · Java + Spring Boot
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="22" height="22" alt="Kotlin" /> Desenvolvedor Android (Kotlin) · Java + Spring Boot
 
 <small>Sou estudante de Análise e Desenvolvimento de Sistemas no IFPB, com desenvolvimento contínuo em Kotlin como linguagem principal. Base sólida em lógica, POO e estruturas de dados. Experiência prática em backend com Kotlin, Java + Spring Boot e PostgreSQL. Familiaridade com Android nativo (Coroutines, ViewModel e noções de Compose). Trabalho com Git/GitHub, Gradle/Maven, Docker e Postman/Insomnia.</small>
 ---
