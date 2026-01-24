@@ -1,6 +1,6 @@
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Software+Developer;Backend & Engenharia de Dados" alt="Typing SVG" /> </a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Software+Developer" alt="Typing SVG" /> </a> </p>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="22" height="22" alt="Kotlin" /> Desenvolvedor Android (Kotlin) · Java + Spring Boot
+## Desenvolvedor de Software | Backend & Engenharia de Dados
 
 <small>Sou estudante de Análise e Desenvolvimento de Sistemas no IFPB e desenvolvedor de software focado em construir soluções completas. Minha trajetória é guiada pela curiosidade técnica de entender como as aplicações funcionam de ponta a ponta, o que me motiva a não me limitar a uma única stack, mas sim a usar a ferramenta certa para cada tipo de problema.
 
@@ -8,12 +8,20 @@ No desenvolvimento **Backend**, construí minha base principal utilizando **Java
 
 Paralelamente, aplico conhecimentos de **Engenharia de Dados** para lidar com processamento de informações e automação. Utilizo **Python** e **SQL** para criar scripts de ETL e manipular grandes volumes de dados, integrando essa competência ao meu fluxo de trabalho para entregar soluções que vão além do desenvolvimento de software tradicional.
 
-Também mantenho uma atuação ativa no desenvolvimento **Android nativo**. Utilizando **Kotlin** e tecnologias modernas como **Jetpack Compose** e **MVVM**, consigo transitar do servidor para o cliente, desenvolvendo interfaces fluidas e tendo uma visão holística de como o dado sai do banco e chega na mão do usuário.</small>
+Também mantenho uma atuação ativa no desenvolvimento **Android nativo**. Utilizando **Kotlin** e tecnologias modernas como **Jetpack Compose** e **MVVM**, consigo transitar do servidor para o cliente, desenvolvendo interfaces fluidas e tendo uma visão holística de como o dado sai do banco e chega na mão do usuário.
+
+</small>
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
