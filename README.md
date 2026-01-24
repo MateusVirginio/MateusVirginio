@@ -1,8 +1,14 @@
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Android+Developer+%F0%9F%9A%80" alt="Typing SVG" /> </a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Software+Developer;Backend & Engenharia de Dados" alt="Typing SVG" /> </a> </p>
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="22" height="22" alt="Kotlin" /> Desenvolvedor Android (Kotlin) · Java + Spring Boot
 
-<small>Sou estudante de Análise e Desenvolvimento de Sistemas no IFPB, com desenvolvimento contínuo em Kotlin como linguagem principal. Base sólida em lógica, POO e estruturas de dados. Experiência prática em backend com Kotlin, Java + Spring Boot e PostgreSQL. Familiaridade com Android nativo (Coroutines, ViewModel e noções de Compose). Trabalho com Git/GitHub, Gradle/Maven, Docker e Postman/Insomnia.</small>
+<small>Sou estudante de Análise e Desenvolvimento de Sistemas no IFPB e desenvolvedor de software focado em construir soluções completas. Minha trajetória é guiada pela curiosidade técnica de entender como as aplicações funcionam de ponta a ponta, o que me motiva a não me limitar a uma única stack, mas sim a usar a ferramenta certa para cada tipo de problema.
+
+No desenvolvimento **Backend**, construí minha base principal utilizando **Java** e **Kotlin**. Tenho experiência na criação de APIs e sistemas robustos com **Spring Framework**, onde priorizo a arquitetura limpa e a performance. É a área onde me sinto mais confortável desenhando regras de negócio complexas e garantindo a estabilidade das aplicações.
+
+Paralelamente, aplico conhecimentos de **Engenharia de Dados** para lidar com processamento de informações e automação. Utilizo **Python** e **SQL** para criar scripts de ETL e manipular grandes volumes de dados, integrando essa competência ao meu fluxo de trabalho para entregar soluções que vão além do desenvolvimento de software tradicional.
+
+Também mantenho uma atuação ativa no desenvolvimento **Android nativo**. Utilizando **Kotlin** e tecnologias modernas como **Jetpack Compose** e **MVVM**, consigo transitar do servidor para o cliente, desenvolvendo interfaces fluidas e tendo uma visão holística de como o dado sai do banco e chega na mão do usuário.</small>
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
