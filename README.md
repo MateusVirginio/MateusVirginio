@@ -42,8 +42,7 @@ Também mantenho uma atuação ativa no desenvolvimento **Android nativo**. Util
 ---
 
 ## 🎯 Atualmente aprendendo  
-- Aprofundando meus estudos em **Kotlin** e desenvolvimento mobile.  
-- Explorando boas práticas em **arquitetura de sistemas backend**.  
+- Me dedicando firmemente a engenharia de dados 
 
 ---
 
