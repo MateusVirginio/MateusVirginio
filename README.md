@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Software+Developer" alt="Typing SVG" /> </a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Mateus+Virginio;Data+Engineer" alt="Typing SVG" /> </a> </p>
 
 ## Desenvolvedor de Software | Backend & Engenharia de Dados
 
@@ -25,12 +25,11 @@ Também mantenho uma atuação ativa no desenvolvimento **Android nativo**. Util
 
 ---
 
-## 📊 Estatísticas  
-<div align="center">
-
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvirginio&layout=compact&theme=tokyonight)  
-</div>
+## 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight&count_private=true" alt="Mateus's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvirginio&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 ---
 
 ## 📝 Experiência  
