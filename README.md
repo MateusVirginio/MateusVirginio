@@ -24,14 +24,11 @@ Também mantenho uma atuação ativa no desenvolvimento **Android nativo**. Util
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
 ## 📊 Estatísticas
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight&count_private=true">
+![Stats de Mateus](https://github-readme-stats-one-eight.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight)
 
-<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvirginio&layout=compact&theme=tokyonight">
-
-<br clear="both">
+![Top Langs](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=mateusvirginio&layout=compact&theme=tokyonight)
 ---
 
 ## 📝 Experiência  
