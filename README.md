@@ -24,11 +24,8 @@ Também mantenho uma atuação ativa no desenvolvimento **Android nativo**. Util
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-## 📊 Estatísticas
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mateusvirginio&theme=tokyonight)
 
-![Stats de Mateus](https://github-readme-stats-one-eight.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=mateusvirginio&layout=compact&theme=tokyonight)
 ---
 
 ## 📝 Experiência  
