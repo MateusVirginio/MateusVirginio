@@ -27,9 +27,11 @@ Também mantenho uma atuação ativa no desenvolvimento **Android nativo**. Util
 
 ## 📊 Estatísticas
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight&count_private=true)
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mateusvirginio&show_icons=true&theme=tokyonight&count_private=true">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvirginio&layout=compact&theme=tokyonight)
+<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvirginio&layout=compact&theme=tokyonight">
+
+<br clear="both">
 ---
 
 ## 📝 Experiência  
